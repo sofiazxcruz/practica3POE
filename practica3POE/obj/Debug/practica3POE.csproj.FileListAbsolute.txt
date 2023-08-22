@@ -1,0 +1,11 @@
+C:\Users\marth\source\repos\practica3POE\bin\Debug\practica3POE.exe.config
+C:\Users\marth\source\repos\practica3POE\bin\Debug\practica3POE.exe
+C:\Users\marth\source\repos\practica3POE\bin\Debug\practica3POE.pdb
+C:\Users\marth\source\repos\practica3POE\obj\Debug\practica3POE.csproj.AssemblyReference.cache
+C:\Users\marth\source\repos\practica3POE\obj\Debug\practica3POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\marth\source\repos\practica3POE\obj\Debug\practica3POE.Form1.resources
+C:\Users\marth\source\repos\practica3POE\obj\Debug\practica3POE.Properties.Resources.resources
+C:\Users\marth\source\repos\practica3POE\obj\Debug\practica3POE.csproj.GenerateResource.cache
+C:\Users\marth\source\repos\practica3POE\obj\Debug\practica3POE.csproj.CoreCompileInputs.cache
+C:\Users\marth\source\repos\practica3POE\obj\Debug\practica3POE.exe
+C:\Users\marth\source\repos\practica3POE\obj\Debug\practica3POE.pdb
